@@ -40,6 +40,59 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
+## 🧰 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+---
+
+## 🧠 Skills Breakdown
+
+### 📊 Data Analysis Tools
+Excel, Tableau, Power BI, NumPy, SciPy, Pandas, MySQL, Jupyter, RStudio, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, PyTorch
+
+### 💻 Programming Languages
+Python, SQL, R, HTML, CSS, Bootstrap
+
+### 🌐 Web Development
+React, Node.js, Django, Flask
+
+### 🗃️ Database Management
+MySQL, PostgreSQL, Oracle Database, DBeaver
+
+### ☁️ Cloud & DevOps
+Microsoft Azure, Docker
+
+### 🏥 Healthcare Systems & Standards
+DHIS2, OpenEMR, OHDSI ATLAS, SNOMED CT, ICD-10, RxNorm, EHR, HIE
+
+### 📈 Data Visualization & Reporting
+Tableau, Power BI, RMarkdown, ePortfolio, APA-style reporting
+
+### 🔄 Data Integration & Interoperability
+DHIS2 API, JSON Payloads, HL7 FHIR Concepts
+
+### 🤖 Machine Learning & Modeling
+Logistic Regression, KNN, SVM, Random Forest, Classification, Clustering, Forecasting
+
+### 📊 Statistical Methods
+Hypothesis Testing, Regression Analysis, Sampling Distributions, EDA
+
+### 🧾 Version Control
+GitHub
+
+### 💉 Medical Coding & Clinical
+Microsoft Office, PowerPoint, Word | Clinical Pharmacist | HIPAA & HITECH | Healthcare IT Compliance
+
+### 🖥️ Tools & Operating Systems
+Windows OS, Jupyter Notebook, MySQL Workbench, VS Code, DBeaver
 
 ## 📂 Featured Projects
 
