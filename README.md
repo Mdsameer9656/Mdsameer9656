@@ -27,18 +27,6 @@ Here are some ideas to get you started:
 - 🧠 Working on AI-enabled EMR systems, predictive modeling & health dashboards  
 - 📈 Skilled in MySQL, Python, R, Power BI, ReactJS, Redcap, and more  
 - 🧪 Research Assistant at Indiana University | Former Data Science Intern at GTechnologies
-
----
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-
 ---
 ## 🧰 Tech Stack
 
