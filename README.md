@@ -55,7 +55,6 @@ Here are some ideas to get you started:
 ![SNOMED CT](https://img.shields.io/badge/SNOMED--CT-005EB8?style=flat-square)
 ![ICD-10](https://img.shields.io/badge/ICD--10-0072C6?style=flat-square)
 
-
 ---
 
 ## 🧠 Skills Breakdown
@@ -123,16 +122,7 @@ Windows OS, Jupyter Notebook, MySQL Workbench, VS Code, DBeaver
 
 ![Sameer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mdsameer9656&show_icons=true&theme=tokyonight)  
 ## 🚀 About Me
-
-
-# 👋 Hi, I'm Sameer Mohammad
-
-🎓 Master's in Health Informatics | 📊 Data Scientist | 💻 Full Stack Developer  
-📍 Based in Indianapolis, IN | Originally from Hyderabad, India
-
----
-
-
+--- 
 ## 📄 Resume
 
 📥 [Download My Resume](https://github.com/Mdsameer9656/Mdsameer9656/blob/main/Sameer_Resume.pdf)
