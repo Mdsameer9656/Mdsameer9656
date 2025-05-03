@@ -56,7 +56,15 @@ Here are some ideas to get you started:
 ![ICD-10](https://img.shields.io/badge/ICD--10-0072C6?style=flat-square)
 
 ---
+## 📂 Featured Projects
 
+- 📊 [Food Security Index](https://github.com/Mdsameer9656/Food-Security-Index)
+- 🩺 [Lung Cancer Prediction](https://github.com/Mdsameer9656/Lung-Cancer-Project)
+- 🧬 [Esophageal Cancer Analytics](https://github.com/Mdsameer9656/Esophageal-Cancer)
+- 💡 [Capstone Project: AI in Public Health](https://github.com/Mdsameer9656/Capstone-Project)
+- 💉 [Remote Insulin Monitoring Devices](https://github.com/Mdsameer9656/Remote-Insulin-Devices)
+
+---
 ## 🧠 Skills Breakdown
 
 ### 📊 Data Analysis Tools
@@ -98,15 +106,6 @@ Microsoft Office, PowerPoint, Word | Clinical Pharmacist | HIPAA & HITECH | Heal
 ### 🖥️ Tools & Operating Systems
 Windows OS, Jupyter Notebook, MySQL Workbench, VS Code, DBeaver
 
-## 📂 Featured Projects
-
-- 📊 [Food Security Index](https://github.com/Mdsameer9656/Food-Security-Index)
-- 🩺 [Lung Cancer Prediction](https://github.com/Mdsameer9656/Lung-Cancer-Project)
-- 🧬 [Esophageal Cancer Analytics](https://github.com/Mdsameer9656/Esophageal-Cancer)
-- 💡 [Capstone Project: AI in Public Health](https://github.com/Mdsameer9656/Capstone-Project)
-- 💉 [Remote Insulin Monitoring Devices](https://github.com/Mdsameer9656/Remote-Insulin-Devices)
-
----
 
 ## 🌐 Connect With Me
 
@@ -130,16 +129,6 @@ Windows OS, Jupyter Notebook, MySQL Workbench, VS Code, DBeaver
 _(Upload your resume as `Sameer_Resume.pdf` in this repo to activate the link)_
 
 ---
-
-## 🌐 Connect With Me
-
-- 📫 Email: [sameermohd1447@gmail.com](mailto:sameermohd1447@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/mohammad-sameer-a39127236](https://www.linkedin.com/in/mohammad-sameer-a39127236)  
-- 🌐 Portfolio: [My Portfolio](https://sites.google.com/view/sameer-portfolio/home)  
-- 💻 GitHub: [github.com/Mdsameer9656](https://github.com/Mdsameer9656)
-
----
-
 ## 🏆 GitHub Trophies
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Mdsameer9656&theme=radical&margin-w=10&margin-h=15)
