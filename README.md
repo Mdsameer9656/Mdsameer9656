@@ -1,12 +1,88 @@
-# Sameer Mohammad
+<h1 align="center">Sameer Mohammad</h1>
 
-### Healthcare Data Analyst • PharmD • MS Health Informatics
+<h3 align="center">
+Healthcare Data Analyst • PharmD • MS Health Informatics
+</h3>
 
-📧 Email: sameermohd1447@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/mohammad-sameer-a39127236  
-📍 Location: Indianapolis, Indiana, USA  
-💼 Open to Work: YES  
+<p align="center">
+<a href="mailto:sameermohd1447@gmail.com">
+<img src="https://img.shields.io/badge/Email-sameermohd1447%40gmail.com-red?style=for-the-badge&logo=gmail">
+</a>
 
+<a href="https://www.linkedin.com/in/mohammad-sameer-a39127236">
+<img src="https://img.shields.io/badge/LinkedIn-Sameer%20Mohammad-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<img src="https://img.shields.io/badge/Location-Indianapolis,%20USA-lightgrey?style=for-the-badge&logo=googlemaps">
+
+<img src="https://img.shields.io/badge/Open%20to%20Work-YES-brightgreen?style=for-the-badge">
+</p>
+
+---
+
+<p align="center">
+🔬 Turning Healthcare Data into Actionable Insights • 📊 Building Analytics Systems • 🤖 Advancing Clinical Decision Intelligence
+</p>
+
+---
+
+# 🧰 Tech Stack
+
+### Programming & Analytics
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+
+---
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-FF0000?style=flat-square&logo=oracle&logoColor=white)
+
+---
+
+### Data Visualization
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
+---
+
+### Data Science Tools
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white)
+
+---
+
+### Web Development
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+---
+
+### Cloud & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+### Healthcare Informatics
+
+![FHIR](https://img.shields.io/badge/FHIR-EF4B4C?style=flat-square)
+![DHIS2](https://img.shields.io/badge/DHIS2-1976D2?style=flat-square)
+![REDCap](https://img.shields.io/badge/REDCap-B31B1B?style=flat-square)
+![SNOMED CT](https://img.shields.io/badge/SNOMED--CT-005EB8?style=flat-square)
+![ICD-10](https://img.shields.io/badge/ICD--10-0072C6?style=flat-square)
 ---
 
 # 👋 About Me
@@ -182,45 +258,11 @@ Technologies:
 
 ---
 
-# 🧰 Technical Skills
-
-### Programming
-Python • R • SQL • HTML • CSS • JavaScript
-
-### Data Science & Machine Learning
-Scikit-learn • TensorFlow • Keras • PyTorch • Pandas • NumPy
-
-### Data Visualization
-Power BI • Tableau • Matplotlib • Seaborn • Excel
-
-### Databases
-MySQL • PostgreSQL • Oracle • DBeaver
-
-### Web Development
-React • Node.js • Django • Flask
-
-### Cloud & DevOps
-Microsoft Azure • Docker • GitHub
-
-### Healthcare Informatics
-DHIS2 • REDCap • OpenEMR • OHDSI ATLAS  
-FHIR • SNOMED CT • ICD-10 • RxNorm • EHR Systems
-
----
-
 # 📈 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mdsameer9656&layout=compact)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mdsameer9656&show_icons=true)
-
----
-
-# 📄 Resume
-
-Download my resume:
-
-[Sameer_Resume.pdf](Sameer_Resume.pdf)
 
 ---
 
