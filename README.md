@@ -25,66 +25,6 @@ Healthcare Data Analyst • PharmD • MS Health Informatics
 </p>
 
 ---
-
-# 🧰 Tech Stack
-
-### Programming & Analytics
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
-
----
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-FF0000?style=flat-square&logo=oracle&logoColor=white)
-
----
-
-### Data Visualization
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-
----
-
-### Data Science Tools
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white)
-
----
-
-### Web Development
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
----
-
-### Cloud & DevOps
-
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
----
-
-### Healthcare Informatics
-
-![FHIR](https://img.shields.io/badge/FHIR-EF4B4C?style=flat-square)
-![DHIS2](https://img.shields.io/badge/DHIS2-1976D2?style=flat-square)
-![REDCap](https://img.shields.io/badge/REDCap-B31B1B?style=flat-square)
-![SNOMED CT](https://img.shields.io/badge/SNOMED--CT-005EB8?style=flat-square)
-![ICD-10](https://img.shields.io/badge/ICD--10-0072C6?style=flat-square)
----
-
 # 👋 About Me
 
 I am a **Healthcare Data Analyst with 4+ years of experience combining clinical knowledge and healthcare analytics**. With a PharmD background and a Master’s in Health Informatics from Indiana University Indianapolis, I specialize in transforming healthcare data into actionable insights.
@@ -102,6 +42,54 @@ I build solutions across the healthcare data lifecycle — from **data ingestion
 • Healthcare Dashboarding & Reporting  
 
 ---
+
+## 🧰 Tech Stack
+
+### Languages & Databases
+![SQL](https://img.shields.io/badge/SQL-grey?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+### BI & Visualization
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+
+### Data Science & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+### Web & Development
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
+![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django)
+
+### Healthcare Systems & Standards
+![DHIS2](https://img.shields.io/badge/DHIS2-blue?style=flat-square)
+![REDCap](https://img.shields.io/badge/REDCap-darkred?style=flat-square)
+![OpenEMR](https://img.shields.io/badge/OpenEMR-grey?style=flat-square)
+![FHIR](https://img.shields.io/badge/FHIR-red?style=flat-square)
+![HL7](https://img.shields.io/badge/HL7-blue?style=flat-square)
+![ICD-10](https://img.shields.io/badge/ICD--10-005EB8?style=flat-square)
+![SNOMED CT](https://img.shields.io/badge/SNOMED--CT-0A6ED1?style=flat-square)
+![RxNorm](https://img.shields.io/badge/RxNorm-orange?style=flat-square)
+
+### Cloud & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio)
+
 
 # 📊 Experience at a Glance
 
