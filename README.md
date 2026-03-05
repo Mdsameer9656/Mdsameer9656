@@ -31,7 +31,7 @@ I am a **Healthcare Data Analyst with 4+ years of experience combining clinical 
 
 My work focuses on **healthcare analytics, ETL pipelines, clinical reporting systems, and machine learning models** used for population health monitoring and healthcare decision support.
 
-I build solutions across the healthcare data lifecycle — from **data ingestion and cleaning to dashboard reporting and predictive modeling** — using tools such as **SQL, Python, Power BI, and healthcare data platforms like DHIS2 and REDCap**.
+I build solutions across the healthcare data lifecycle  from **data ingestion and cleaning to dashboard reporting and predictive modeling**  using tools such as **SQL, Python, Power BI, and healthcare data platforms like DHIS2 and REDCap**.
 
 ### Areas of Interest
 
