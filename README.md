@@ -1,140 +1,236 @@
-## Hi there 👋
+# Sameer Mohammad
 
-<!--
-**Mdsameer9656/Mdsameer9656** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Healthcare Data Analyst • PharmD • MS Health Informatics
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 👋 Hi, I'm Sameer Mohammad
-
-🎓 Master's in Health Informatics | 📊 Data Scientist | 💻 Full Stack Developer  
-📍 Based in Indianapolis, IN | Originally from Hyderabad, India
+📧 Email: sameermohd1447@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/mohammad-sameer-a39127236  
+📍 Location: Indianapolis, Indiana, USA  
+💼 Open to Work: YES  
 
 ---
 
-## 🚀 About Me
+# 👋 About Me
 
-- 🔍 Passionate about Health Informatics, Clinical Analytics & Data Science  
-- 🧠 Working on AI-enabled EMR systems, predictive modeling & health dashboards  
-- 📈 Skilled in MySQL, Python, R, Power BI, ReactJS, Redcap, and more  
-- 🧪 Research Assistant at Indiana University | Former Data Science Intern at GTechnologies
----
-## 🧰 Tech Stack
+I am a **Healthcare Data Analyst with 4+ years of experience combining clinical knowledge and healthcare analytics**. With a PharmD background and a Master’s in Health Informatics from Indiana University Indianapolis, I specialize in transforming healthcare data into actionable insights.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-FF0000?style=flat-square&logo=oracle&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![FHIR](https://img.shields.io/badge/FHIR-EF4B4C?style=flat-square&logo=fhir&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
-![DHIS2](https://img.shields.io/badge/DHIS2-1976D2?style=flat-square)
-![REDCap](https://img.shields.io/badge/REDCap-B31B1B?style=flat-square)
-![SNOMED CT](https://img.shields.io/badge/SNOMED--CT-005EB8?style=flat-square)
-![ICD-10](https://img.shields.io/badge/ICD--10-0072C6?style=flat-square)
+My work focuses on **healthcare analytics, ETL pipelines, clinical reporting systems, and machine learning models** used for population health monitoring and healthcare decision support.
 
----
-## 📂 Featured Projects
+I build solutions across the healthcare data lifecycle — from **data ingestion and cleaning to dashboard reporting and predictive modeling** — using tools such as **SQL, Python, Power BI, and healthcare data platforms like DHIS2 and REDCap**.
 
-- 📊 [Food Security Index](https://github.com/Mdsameer9656/Food-Security-Index)
-- 🩺 [Lung Cancer Prediction](https://github.com/Mdsameer9656/Lung-Cancer-Project)
-- 🧬 [Esophageal Cancer Analytics](https://github.com/Mdsameer9656/Esophageal-Cancer)
-- 💡 [Capstone Project: AI in Public Health](https://github.com/Mdsameer9656/Capstone-Project)
-- 💉 [Remote Insulin Monitoring Devices](https://github.com/Mdsameer9656/Remote-Insulin-Devices)
+### Areas of Interest
 
----
-## 🧠 Skills Breakdown
-
-### 📊 Data Analysis Tools
-Excel, Tableau, Power BI, NumPy, SciPy, Pandas, MySQL, Jupyter, RStudio, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, PyTorch
-
-### 💻 Programming Languages
-Python, SQL, R, HTML, CSS, Bootstrap
-
-### 🌐 Web Development
-React, Node.js, Django, Flask
-
-### 🗃️ Database Management
-MySQL, PostgreSQL, Oracle Database, DBeaver
-
-### ☁️ Cloud & DevOps
-Microsoft Azure, Docker
-
-### 🏥 Healthcare Systems & Standards
-DHIS2, OpenEMR, OHDSI ATLAS, SNOMED CT, ICD-10, RxNorm, EHR, HIE
-
-### 📈 Data Visualization & Reporting
-Tableau, Power BI, RMarkdown, ePortfolio, APA-style reporting
-
-### 🔄 Data Integration & Interoperability
-DHIS2 API, JSON Payloads, HL7 FHIR Concepts
-
-### 🤖 Machine Learning & Modeling
-Logistic Regression, KNN, SVM, Random Forest, Classification, Clustering, Forecasting
-
-### 📊 Statistical Methods
-Hypothesis Testing, Regression Analysis, Sampling Distributions, EDA
-
-### 🧾 Version Control
-GitHub
-
-### 💉 Medical Coding & Clinical
-Microsoft Office, PowerPoint, Word | Clinical Pharmacist | HIPAA & HITECH | Healthcare IT Compliance
-
-### 🖥️ Tools & Operating Systems
-Windows OS, Jupyter Notebook, MySQL Workbench, VS Code, DBeaver
-
-
-## 🌐 Connect With Me
-
-- 📫 Email: [sameermohd1447@gmail.com](mailto:sameermohd1447@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/mohammad-sameer-a39127236](https://www.linkedin.com/in/sameer-mohammad-a39127236/)  
-- 🌐 Portfolio: [My Portfolio](https://sites.google.com/view/sameer-portfolio/home)  
-- 💻 GitHub: [github.com/Mdsameer9656](https://github.com/Mdsameer9656)
+• Healthcare Data Analytics  
+• Clinical Informatics & EHR Systems  
+• Predictive Modeling & Machine Learning  
+• Public Health Data Systems  
+• Healthcare Dashboarding & Reporting  
 
 ---
 
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mdsameer9656&layout=compact&theme=tokyonight)
+# 📊 Experience at a Glance
 
-![Sameer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mdsameer9656&show_icons=true&theme=tokyonight)  
-## 🚀 About Me
---- 
-## 📄 Resume
-
-📥 [Download My Resume](https://github.com/Mdsameer9656/Mdsameer9656/blob/main/Sameer_Resume.pdf)
-
-_(Upload your resume as `Sameer_Resume.pdf` in this repo to activate the link)_
-
----
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Mdsameer9656&theme=radical&margin-w=10&margin-h=15)
+| Role | Organization | Key Impact |
+|-----|--------------|-----------|
+| Healthcare Data Analyst | Molina Healthcare | Analyzed multi-source healthcare datasets, produced state-mandated reports, and improved KPI monitoring workflows |
+| Health Data Analyst | Guardian's Embrace | Built dashboards using Power BI/Tableau and analyzed healthcare claims & utilization datasets |
+| Data Analyst | Indiana University | Built REDCap → Power BI reporting pipelines and Python ETL workflows for DHIS2 |
+| Teaching Assistant | Indiana University | Guided students in statistical analysis, R programming, and biomedical informatics |
+| Data Analyst / System Developer Intern | Randolph County Caring Community Partnership | Implemented DHIS2 public health reporting system and built Power BI dashboards |
+| Data Science Intern | GTechnologies | Built an AI-enabled EMR prototype using React, Node.js, and MySQL |
+| Clinical Data Analyst | ESIC Hospital | Conducted clinical data audits, documentation validation, and research data reporting |
 
 ---
 
-## 👀 Visitor Counter
+# 🎓 Education
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Mdsameer9656&color=blue)
+| Degree | Institution | Duration | Grade |
+|------|-------------|----------|------|
+| **Master of Science (MS), Health Informatics** | Indiana University Indianapolis | Aug 2023 – May 2025 | 3.9 |
+| **Doctor of Pharmacy (PharmD)** | MLR Institute of Pharmacy | Jun 2017 – Jun 2023 | 3.8 |
+| **Intermediate (BiPC)** | Sri Chaitanya College of Education | May 2015 – May 2017 | 97.3% |
+
+### Relevant Skills Developed
+
+Health Informatics • Healthcare Analytics • Clinical Decision Support Systems • Exploratory Data Analysis • Regression Analysis • Logistic Regression • Random Forest • ANOVA • Chi-Square • Cluster Analysis • Statistical Modeling • Pandas • NumPy • ggplot • Time Series Analysis • Interoperability • API Development • GitHub Version Control
+
+---
+
+# 📜 Certifications & Credentials
+
+| Credential | Institution |
+|-----------|------------|
+| Certified Health Data Analyst (CHDA) | AHIMA |
+| Biomedical Researcher Certification | CITI Program |
+| Data and Electronic Health Records | Johns Hopkins Medicine |
+| Google Data Analytics Professional Certificate | Google (Coursera) |
+| CPR / AED / First Aid / Bloodborne Pathogens | American Heart Association |
+
+---
+
+# 🚀 Featured Academic & Research Projects
+
+## 🏥 DHIS2–Power BI Decision Support Dashboard (Public Health)
+
+**Associated with:** Caring Community Partnership  
+**Duration:** May 2024 – May 2025  
+
+Built an end-to-end **public health decision support dashboard** integrating **DHIS2 and Power BI** for community health reporting.
+
+Key Contributions:
+
+• Configured analytics stack using **Apache Tomcat, PostgreSQL, PostGIS, and DHIS2**  
+• Developed automated **Python ETL workflows** for CSV and JSON datasets  
+• Created **interactive Power BI dashboards with geospatial and trend reporting**  
+• Implemented **data validation and quality checks for public health datasets**  
+• Supported stakeholder testing and adoption
+
+Technologies:  
+**Python • SQL • DHIS2 • Power BI**
+
+---
+
+## 🧬 Esophageal Cancer Data Management & Analytics System
+
+**Duration:** Aug 2024 – Dec 2024  
+
+Designed and implemented a **clinical analytics database system** for managing esophageal cancer clinical data.
+
+Key Contributions:
+
+• Designed relational database schema **normalized to 3NF using MySQL**  
+• Built ER diagrams and SQL schema in **MySQL Workbench**  
+• Performed **data preprocessing and exploratory analysis using Python**  
+• Implemented **Logistic Regression and Random Forest models** for outcome prediction  
+• Created visualizations analyzing survival trends and treatment effectiveness
+
+Technologies:  
+**Python • SQL • Machine Learning • MySQL**
+
+---
+
+## 💻 AI-Enabled Electronic Medical Record (EMR) System
+
+**Associated with:** GTechnologies Pty Ltd  
+**Duration:** May 2024 – Aug 2024  
+
+Developed a **full-stack EMR system** to improve patient data management workflows.
+
+Key Contributions:
+
+• Built application using **React, Node.js, and MySQL**  
+• Implemented SQL-based patient record management  
+• Developed dynamic patient interfaces and server-client workflows  
+• Ensured interoperability with EMR systems such as **Epic and Cerner**  
+• Deployed using **Docker and Azure**
+
+Technologies:  
+**React • Node.js • MySQL • Docker • Azure**
+
+---
+
+## 🌍 Impact of Climate Change on Global Food Security
+
+**Duration:** Jan 2024 – May 2024  
+
+Analyzed global food security trends using the **Global Food Security Index (GFSI)** dataset across **113 countries**.
+
+Key Contributions:
+
+• Performed **regression analysis, ANOVA, and clustering in R**  
+• Identified drivers affecting food security indicators  
+• Built geospatial visualizations and analytical dashboards  
+• Generated policy insights for climate-related food security risks
+
+Technologies:  
+**R • Statistical Modeling • Regression Analysis • Cluster Analysis**
+
+---
+
+## 💉 Effectiveness of Current Remote Insulin Monitoring Devices
+
+**Duration:** Aug 2023 – Jan 2024  
+
+Evaluated multiple remote insulin monitoring devices used in diabetes management.
+
+Key Contributions:
+
+• Designed device testing protocols for **accuracy and usability**  
+• Conducted **cost-benefit and feature comparison analysis**  
+• Interpreted clinical observations and data  
+• Delivered evidence-based recommendations for healthcare adoption
+
+Technologies:  
+**Healthcare Analytics • Clinical Evaluation • Data Analysis**
+
+---
+
+## 🧠 Lung Cancer Risk Prediction Model
+
+**Duration:** Aug 2023 – Jan 2024  
+
+Developed predictive models to assess lung cancer risk using clinical datasets.
+
+Key Contributions:
+
+• Performed **data cleaning and exploratory analysis**  
+• Implemented machine learning models including **kNN and tree-based methods**  
+• Created **correlation heatmaps and feature visualizations**  
+• Generated insights supporting early detection strategies
+
+Technologies:  
+**Python • Machine Learning • Exploratory Data Analysis**
+
+---
+
+# 🧰 Technical Skills
+
+### Programming
+Python • R • SQL • HTML • CSS • JavaScript
+
+### Data Science & Machine Learning
+Scikit-learn • TensorFlow • Keras • PyTorch • Pandas • NumPy
+
+### Data Visualization
+Power BI • Tableau • Matplotlib • Seaborn • Excel
+
+### Databases
+MySQL • PostgreSQL • Oracle • DBeaver
+
+### Web Development
+React • Node.js • Django • Flask
+
+### Cloud & DevOps
+Microsoft Azure • Docker • GitHub
+
+### Healthcare Informatics
+DHIS2 • REDCap • OpenEMR • OHDSI ATLAS  
+FHIR • SNOMED CT • ICD-10 • RxNorm • EHR Systems
+
+---
+
+# 📈 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mdsameer9656&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mdsameer9656&show_icons=true)
+
+---
+
+# 📄 Resume
+
+Download my resume:
+
+[Sameer_Resume.pdf](Sameer_Resume.pdf)
+
+---
+
+# 🌐 Connect With Me
+
+📧 Email: sameermohd1447@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/mohammad-sameer-a39127236  
+🌐 Portfolio: https://sites.google.com/view/sameer-portfolio/home  
+💻 GitHub: https://github.com/Mdsameer9656
+
+---
+
+⭐ Always interested in collaborating on **healthcare data analytics, clinical informatics, machine learning, and public health informatics projects.**
